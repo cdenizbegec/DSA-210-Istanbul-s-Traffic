@@ -10,7 +10,7 @@ It is one of the biggest problems in Istanbul, a city where millions of people t
 Istanbul experiences high vehicle density, long commuting times, and variable traffic conditions influenced by multiple factors.
 Weather is one of these factors. Precipitation, in particular, can reduce visibility, worsen road conditions, and cause drivers to slow down or change lanes more frequently. 
 All of these often lead to longer travel times, more frequent accidents, and increased congestion.
-By examining two years of data, this project seeks to quantify the impact of daily rainfall on traffic slowdowns. 
+This project seeks to quantify the impact of daily rainfall on traffic slowdowns by examining two years of data. 
 The findings could help the city planners, local authorities, and app developers to create more effective traffic management strategies and smarter mobility solutions.
 ## Datasets
 In this project publicly available datasets will be used.
