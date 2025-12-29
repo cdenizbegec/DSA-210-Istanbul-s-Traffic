@@ -1,5 +1,6 @@
 latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
 41.01933,29.015692,36.0,10800,Europe/Istanbul,GMT+3
+
 time,precipitation_sum (mm),rain_sum (mm),snowfall_sum (cm),precipitation_hours (h),weather_code (wmo code),temperature_2m_mean (°C),wind_speed_10m_max (km/h)
 2018-01-01,0.00,0.00,0.00,0.0,1,7.0,19.6
 2018-01-02,0.10,0.10,0.00,1.0,51,8.7,20.9
