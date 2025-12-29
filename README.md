@@ -16,9 +16,9 @@ The findings could help the city planners, local authorities, and app developers
 ## Datasets
 In this project publicly available datasets will be used.
 ### 1.Weather Data
-Daily weather data will be used from January 2018 to September 2024. Location will be set as Istanbul, Turkey. This data will be sourced from Open-Meteo API.
+Daily weather data will be used from January 2018 to September 2024. Location will be set as Istanbul, Turkey. This data is sourced from Open-Meteo API.
 ### 2.Traffic Data
-Daily average traffic index of Istanbul will be used from September 2022 to September 2024. This data will be sourced from İBB Open Data Portal.
+Daily average traffic index of Istanbul will be used from January 2018 to September 2024. This data is sourced from İBB Open Data Portal.
 ## Data Collection Plan
 **1.** Retrieve daily weather data using the Open-Meteo API.
 
@@ -27,3 +27,9 @@ Daily average traffic index of Istanbul will be used from September 2022 to Sept
 **3.** Clean and align both datasets using consistent date formats.
 
 **4.** Merge datasets by date to enable analysis.
+## Tools & Technologies
+* **Jupyter Notebook & Python:** Development environment.
+* **Pandas & NumPy:** Data cleaning and processing.
+* **Matplotlib & Seaborn:** Visualizations (Boxplots, Histograms).
+* **SciPy:** Statistical T-testing.
+* **Scikit-Learn:** Random Forest modeling.
