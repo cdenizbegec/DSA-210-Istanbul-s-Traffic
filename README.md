@@ -1,6 +1,6 @@
 # DSA 210 Term Project: The Effect of Weather on Istanbul's Daily Traffic Index
 ## Objective
-This project aims to analyze the daily relationship between weather and traffic density in Istanbul over a two year period (September 2022 to September 2024).
+This project aims to analyze the daily relationship between weather and traffic density in Istanbul over a seven year period (2018 to 2024).
 The goal is to determine if and to what extent different weather conditions lead to a higher traffic index.
 ### Hyphothesis: 
 There is a statistically significant relationship between daily weather conditions and the average daily traffic index.
@@ -16,7 +16,7 @@ The findings could help the city planners, local authorities, and app developers
 ## Datasets
 In this project publicly available datasets will be used.
 ### 1.Weather Data
-Daily weather data will be used from September 2022 to September 2024. Location will be set as Istanbul, Turkey. This data will be sourced from Open-Meteo API.
+Daily weather data will be used from January 2018 to September 2024. Location will be set as Istanbul, Turkey. This data will be sourced from Open-Meteo API.
 ### 2.Traffic Data
 Daily average traffic index of Istanbul will be used from September 2022 to September 2024. This data will be sourced from İBB Open Data Portal.
 ## Data Collection Plan
